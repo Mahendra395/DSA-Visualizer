@@ -41,4 +41,5 @@ You may find me through <a href="mailto:jasonfen@usc.edu">email</a> with any com
 - User rankings by their models' performances
 - ...
 
-#### ENJOY THE BEAUTY OF ALGORITHMS!
+#### ENJOY THE BEAUTY OF ALGORITHMS
+
